@@ -33,6 +33,6 @@ const reservationSchema = new mongoose.Schema({
     minLength: [11, "Phone number must contain 11 Digits."],
     maxLength: [11, "Phone number must contain 11 Digits."],
   },
-});
+}); 
 
 export const Reservation = mongoose.model("Reservation", reservationSchema);
