@@ -10,8 +10,8 @@ const app = express();
 
 app.use(
   cors({
-    origin: ["http://localhost:5173"],
-    methods: ["POST"],
+      origin: ["http://localhost:5173", "https://restaurant-reservation-tawny.vercel.app"],
+      methods: ["POST"],
     credentials: true,
   })
 );
