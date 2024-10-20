@@ -74,13 +74,13 @@
             {
                 "id": 1,
                 "image": "./Default_avatar_profile.jpg",
-                "name": "Anand",
+                "name": "Anu Pranitha",
                 "designation": "Founder & Head Chef"
             },
             {
                 "id": 2,
                 "image": "./Default_avatar_profile.jpg",
-                "name": "Anu Pranitha",
+                "name": "Emma",
                 "designation": "Head Chef"
             }
         ],
